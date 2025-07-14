@@ -12,3 +12,5 @@ git config --global user.email" "
 vs code down click and go to terminal
 <br>
 cloning means copy repository from github to local(computer) copy https from github in code
+<br>
+readme file is for description
