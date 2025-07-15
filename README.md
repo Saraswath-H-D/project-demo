@@ -20,4 +20,5 @@ git status
 cd folder name to change directory
 <br>
 git status <br>
-new files with no commit are not able to track by git if we change something
+new files with no commit are not able to track by git if we change something<br>
+|_|->add(engage)->commit
