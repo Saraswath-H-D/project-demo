@@ -25,4 +25,5 @@ new files with no commit are not able to track by git if we change something<br>
 |_|->add(engage)->commit<br>
 git add filename<br>
 git add.(for all file)
-git commit -m"any para"
+git commit -m"any para"<br>
+git push origin main (push local to github)
