@@ -30,4 +30,4 @@ git push origin main (push local to github)<br>
 cd.. for remove from ownership<br>
 mkdir name for creating directory <br>
 git init (to make it has git file)<br>
-become git repositor y
+become git repository
