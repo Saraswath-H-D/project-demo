@@ -26,4 +26,8 @@ new files with no commit are not able to track by git if we change something<br>
 git add filename<br>
 git add.(for all file)
 git commit -m"any para"<br>
-git push origin main (push local to github)
+git push origin main (push local to github)<br>
+cd.. for remove from ownership<br>
+mkdir name for creating directory <br>
+git init (to make it has git file)<br>
+become git repositor y
