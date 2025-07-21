@@ -30,4 +30,10 @@ git push origin main (push local to github)<br>
 cd.. for remove from ownership<br>
 mkdir name for creating directory <br>
 git init (to make it has git file)<br>
-become git repository
+become git repository<br>
+git remote add origin <url> for push where we create repository using git init<br>
+git remote -v to verify remote
+git branch which branch<br>
+git branch -M main to create branch name<br>
+git push origin main<br>
+git push -u origin main<br> after it if we type get push it will go to main only
