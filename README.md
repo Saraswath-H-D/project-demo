@@ -32,6 +32,7 @@ git push origin main (push local to github)<br>
 cd.. for remove from ownership<br>
 mkdir name for creating directory <br>
 git init (to make it has git file)<br>
+init command is used for making repo in local or vscode
 become git repository<br>
 git remote add origin <url> for push where we create repository using git init<br>
 git remote -v to verify remote
