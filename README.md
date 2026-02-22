@@ -14,7 +14,7 @@ vs code down click and go to terminal
 <br>
 cloning means copy repository from github to local(computer) copy https from github in code
 <br>
-git clone <link>
+git clone link
 readme file is for description
 <br>
 git status
@@ -25,6 +25,7 @@ git status <br>
 new files with no commit are not able to track by git if we change something<br>
 |_|->add(engage)->commit<br>
 git add filename<br>
+add used for teacking the untracking file
 git add.(for all file)
 git commit -m"any para"<br>
 git push origin main (push local to github)<br>
