@@ -14,6 +14,7 @@ vs code down click and go to terminal
 <br>
 cloning means copy repository from github to local(computer) copy https from github in code
 <br>
+git clone <link>
 readme file is for description
 <br>
 git status
