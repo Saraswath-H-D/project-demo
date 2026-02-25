@@ -51,3 +51,4 @@ git merge <branch name>
 or by pulling request we can merge
 pr also type of commit
 git pull origin main from git to local to run updated code
+to resolve conflict when we change differnt in same file with main and in subbranch it will not merge if we backspace we can resolve
