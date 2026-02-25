@@ -54,3 +54,7 @@ git pull origin main from git to local to run updated code
 to resolve conflict when we change differnt in same file with main and in subbranch it will not merge if we backspace we can resolve
 git reset <filenmae> is we can remove last add at that file
 git reset  remove last add of all file
+git reset HEAD~1 we can remove last one committed line
+git log for history
+git reset <hash> we get from git log to reset multiple commits
+git reset hard <hash> automatically will clear
