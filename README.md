@@ -49,3 +49,4 @@ git push --set-upstream origin <branch name>
 git diff <branch name> compare 
 git merge <branch name>
 or by pulling request we can merge
+pr also type of commit
