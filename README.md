@@ -41,3 +41,7 @@ git branch -M main to rename main branch name<br>
 git push origin main<br>
 git push -u origin main<br> if we want to repeatedly push -u is used that is after that if we write git push is enough
 git commit -am "wdfd" for both add and commit if there is no taq
+branch used for different work and merge
+git checkout<branch name> for navigate our fav branch
+git checkout -b<new brnch nme> for create new branch
+git checkout -d<branch> for delelte
