@@ -45,3 +45,7 @@ branch used for different work and merge
 git checkout<branch name> for navigate our fav branch
 git checkout -b<new brnch nme> for create new branch
 git checkout -d<branch> for delelte
+git push --set-upstream origin <branch name> 
+git diff <branch name> compare 
+git merge <branch name>
+or by pulling request we can merge
