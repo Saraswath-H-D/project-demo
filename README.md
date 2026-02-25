@@ -58,3 +58,4 @@ git reset HEAD~1 we can remove last one committed line
 git log for history
 git reset <hash> we get from git log to reset multiple commits
 git reset hard <hash> automatically will clear
+fork new repository is used for copy from other or ours code 
