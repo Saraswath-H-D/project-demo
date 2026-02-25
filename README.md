@@ -50,3 +50,4 @@ git diff <branch name> compare
 git merge <branch name>
 or by pulling request we can merge
 pr also type of commit
+git pull origin main from git to local to run updated code
