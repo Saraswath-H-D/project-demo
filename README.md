@@ -59,3 +59,10 @@ git log for history
 git reset <hash> we get from git log to reset multiple commits
 git reset hard <hash> automatically will clear
 fork new repository is used for copy from other or ours code 
+node js open terminal or git bash 
+type node
+and type js commands
+like console.log("hello")
+type global to get to know wt in node js
+.help to know wt commands
+.exit to exit
