@@ -71,3 +71,4 @@ type node in bash
 type process it gives all informatoin about current node
 we can have process.cwd(),process.version,process.release
 in bash if we want to search path type explorer.
+in bash we type node script js hello bye to run hello bye are arguments also print when console.log(process.argv)typed
