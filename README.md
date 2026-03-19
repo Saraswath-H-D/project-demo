@@ -67,3 +67,6 @@ type global to get to know wt in node js
 .help to know wt commands
 .exit to exit
 touch script.js //to create file under file
+type node in bash 
+type process it gives all informatoin about current node
+
