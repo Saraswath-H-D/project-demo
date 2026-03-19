@@ -66,3 +66,4 @@ like console.log("hello")
 type global to get to know wt in node js
 .help to know wt commands
 .exit to exit
+touch script.js //to create file under file
