@@ -69,4 +69,4 @@ type global to get to know wt in node js
 touch script.js //to create file under file
 type node in bash 
 type process it gives all informatoin about current node
-
+we can have process.cwd(),process.version,process.release
