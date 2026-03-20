@@ -77,3 +77,4 @@ npmjs website can be seen   we can create our own packages send to developers
 now create directory under backend call figlet using mkdir
 and type npm i figlet to install 
 in that we have node_modules where it stores dependencies of package that if we remove it it not run
+package-lock.json will records all versions of installed dependencies
