@@ -73,3 +73,5 @@ we can have process.cwd(),process.version,process.release
 in bash if we want to search path type explorer.
 in bash we type node script js hello bye to run hello bye are arguments also print when console.log(process.argv)typed and also for loop
 type npm in git bash for seeing packages 
+npmjs website can be seen   we can create our own packages send to developers
+
