@@ -80,3 +80,4 @@ in that we have node_modules where it stores dependencies of package that if we 
 package-lock.json will records all versions of installed dependencies
 package.json contains descriptive metadata about project,such as name ,version and dependencies
 if node_module is delelte then if we type npm install in bash it will install node_modules based on package.json
+if we create directory and want to create package.json simply write npm init in bash it will ask author licensce everything if we install extra like npm i figlet it will add to package.json
