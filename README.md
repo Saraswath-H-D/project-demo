@@ -79,3 +79,4 @@ and type npm i figlet to install
 in that we have node_modules where it stores dependencies of package that if we remove it it not run
 package-lock.json will records all versions of installed dependencies
 package.json contains descriptive metadata about project,such as name ,version and dependencies
+if node_module is delelte then if we type npm install in bash it will install node_modules based on package.json
