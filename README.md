@@ -83,3 +83,4 @@ if node_module is delelte then if we type npm install in bash it will install no
 if we create directory and want to create package.json simply write npm init in bash it will ask author licensce everything if we install extra like npm i figlet it will add to package.json
 we can install package globally by npm install -g figlet   and npm link figlet  but not recommend
 npm install express
+
