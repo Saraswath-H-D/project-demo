@@ -84,3 +84,4 @@ if we create directory and want to create package.json simply write npm init in 
 we can install package globally by npm install -g figlet   and npm link figlet  but not recommend
 npm install express
 nodemon to automatically restart server with code changes
+type npm install -g nodemon
