@@ -85,3 +85,4 @@ we can install package globally by npm install -g figlet   and npm link figlet  
 npm install express
 nodemon to automatically restart server with code changes
 type npm install -g nodemon
+npm init -y (-y)automatically fill related details package-lock.json
