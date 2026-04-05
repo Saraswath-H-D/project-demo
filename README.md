@@ -1,4 +1,5 @@
-# project-demo
+# git and terminal commands
+
 this is my first.
 <br>
 author-saraswath
