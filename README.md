@@ -90,4 +90,9 @@ npm init -y (-y)automatically fill related details package-lock.json
 mongod --version
 type mongosh in bash for typing mongodb cmds
 type help after mongosh it will show list
-
+show dbs
+quit to exit 
+it also can used for js
+<test> in mongosh means temp default db
+mdb works in bson format means convert json to binary format or also called documents
+collection is many documents stores
