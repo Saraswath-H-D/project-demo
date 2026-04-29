@@ -87,3 +87,7 @@ npm install express
 nodemon to automatically restart server with code changes
 type npm install -g nodemon
 npm init -y (-y)automatically fill related details package-lock.json
+mongod --version
+type mongosh in bash for typing mongodb cmds
+type help after mongosh it will show list
+
